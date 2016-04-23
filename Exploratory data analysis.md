@@ -1,11 +1,3 @@
----
-title: 'Machine Learning on fitness data: Practical Machine Learning, Coursera Project'
-author: "Sandeep Tammu"
-date: "December 21, 2015"
-output:  md_document:
-    variant: markdown_github
----
-
 ### Milestone report- Coursera Data Science Specialization Capstone Project
 
 This milestone report summarizes my initial efforts in building a Swiftkey like prediction application. The main focus of this report is to load the data, and do some basic exploratory data analysis. In the coming weeks, when building the real application, I would like to put more effort in cleaning and preprocessing the data.
